@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ASPNETCORE\\IActionControllers\\IActionControllers\\wwwroot\\resume_v7.pdf",
+      "PackagePath": "staticwebassets\\resume_v7.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IActionControllers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IActionControllers.props",
+      "PackagePath": "build\\IActionControllers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IActionControllers.props",
+      "PackagePath": "buildMultiTargeting\\IActionControllers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IActionControllers.props",
+      "PackagePath": "buildTransitive\\IActionControllers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

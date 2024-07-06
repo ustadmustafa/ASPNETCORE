@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASPNETCORE\\MiddlewareExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{327607BF-00FC-4F2C-B6DA-15FEAE81DACF}|MiddlewareExample\\MiddlewareExample.csproj|c:\\aspnetcore\\middlewareexample\\middlewareexample\\custommiddleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327607BF-00FC-4F2C-B6DA-15FEAE81DACF}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\custommiddleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327607BF-00FC-4F2C-B6DA-15FEAE81DACF}|MiddlewareExample\\MiddlewareExample.csproj|c:\\aspnetcore\\middlewareexample\\middlewareexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327607BF-00FC-4F2C-B6DA-15FEAE81DACF}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginMiddleware.cs",
+              "DocumentMoniker": "C:\\ASPNETCORE\\MiddlewareExample\\MiddlewareExample\\CustomMiddleware\\LoginMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareExample\\CustomMiddleware\\LoginMiddleware.cs",
+              "ToolTip": "C:\\ASPNETCORE\\MiddlewareExample\\MiddlewareExample\\CustomMiddleware\\LoginMiddleware.cs",
+              "RelativeToolTip": "MiddlewareExample\\CustomMiddleware\\LoginMiddleware.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:21:57.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASPNETCORE\\MiddlewareExample\\MiddlewareExample\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareExample\\Program.cs",
+              "ToolTip": "C:\\ASPNETCORE\\MiddlewareExample\\MiddlewareExample\\Program.cs",
+              "RelativeToolTip": "MiddlewareExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:17:03.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

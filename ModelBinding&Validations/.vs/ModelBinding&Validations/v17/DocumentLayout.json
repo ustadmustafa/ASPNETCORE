@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|c:\\aspnetcore\\modelbinding\u0026validations\\modelbinding\u0026validations\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|solutionrelative:modelbinding\u0026validations\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|c:\\aspnetcore\\modelbinding\u0026validations\\modelbinding\u0026validations\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|solutionrelative:modelbinding\u0026validations\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|c:\\aspnetcore\\modelbinding\u0026validations\\modelbinding\u0026validations\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|solutionrelative:modelbinding\u0026validations\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|c:\\aspnetcore\\modelbinding\u0026validations\\modelbinding\u0026validations\\customvalidators\\invoicepricevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|solutionrelative:modelbinding\u0026validations\\customvalidators\\invoicepricevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|c:\\aspnetcore\\modelbinding\u0026validations\\modelbinding\u0026validations\\customvalidators\\minimumdatevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|solutionrelative:modelbinding\u0026validations\\customvalidators\\minimumdatevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|c:\\aspnetcore\\modelbinding\u0026validations\\modelbinding\u0026validations\\customvalidators\\productslistvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|solutionrelative:modelbinding\u0026validations\\customvalidators\\productslistvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|c:\\aspnetcore\\modelbinding\u0026validations\\modelbinding\u0026validations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E118B384-A276-49F6-A76B-90459131604F}|ModelBinding\u0026Validations\\ModelBinding\u0026Validations.csproj|solutionrelative:modelbinding\u0026validations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\Program.cs",
+              "RelativeDocumentMoniker": "ModelBinding\u0026Validations\\Program.cs",
+              "ToolTip": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\Program.cs",
+              "RelativeToolTip": "ModelBinding\u0026Validations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:09:39.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsListValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "ModelBinding\u0026Validations\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "ToolTip": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "RelativeToolTip": "ModelBinding\u0026Validations\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:07:02.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MinimumDateValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "ModelBinding\u0026Validations\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "ToolTip": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "RelativeToolTip": "ModelBinding\u0026Validations\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:05:49.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoicePriceValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "ModelBinding\u0026Validations\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "ToolTip": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "RelativeToolTip": "ModelBinding\u0026Validations\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:02:45.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ModelBinding\u0026Validations\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ModelBinding\u0026Validations\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:54:55.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ModelBinding\u0026Validations\\Models\\Product.cs",
+              "ToolTip": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\Models\\Product.cs",
+              "RelativeToolTip": "ModelBinding\u0026Validations\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:05:36.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ModelBinding\u0026Validations\\Models\\Order.cs",
+              "ToolTip": "C:\\ASPNETCORE\\ModelBinding\u0026Validations\\ModelBinding\u0026Validations\\Models\\Order.cs",
+              "RelativeToolTip": "ModelBinding\u0026Validations\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:03:55.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+﻿@using WeatherApp.Models
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.appTitle</title>
+    <meta charset="utf-8" />
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+    <style>
+        .temperature-cold {
+            background-color: blue;
+        }
+
+        .temperature-mild {
+            background-color: yellow;
+        }
+
+        .temperature-hot {
+            background-color: orange;
+        }
+
+        .box {
+            padding: 10px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="page-content">
+        <h1>City Weathers</h1>
+
+        @foreach (CityWeather city in Model)
+        {
+            var bgColorClass = city.TemperatureFahrenheit < 44 ? "temperature-cold" :
+            city.TemperatureFahrenheit <= 74 ? "temperature-mild" :
+            "temperature-hot";
+
+            <div class="box w-50 @bgColorClass">
+                <h3>@city.CityName</h3>
+                <table class="table w-100">
+                    <tbody>
+                        <tr>
+                            <td>Date</td>
+                            <td>@city.DateAndTime</td>
+                        </tr>
+                        <tr>
+                            <td>Temperature</td>
+                            <td>@city.TemperatureFahrenheit °F</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div>
+                    <a href="/weather/@city.CityUniqueCode">Details</a>
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html>

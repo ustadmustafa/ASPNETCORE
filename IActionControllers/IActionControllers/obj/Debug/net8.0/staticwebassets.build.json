@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Ac9x2kREmJIITvw9/vLiUHJ6jwCHEQnDKStqTYqVIuU=",
+  "Source": "IActionControllers",
+  "BasePath": "_content/IActionControllers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IActionControllers\\wwwroot",
+      "Source": "IActionControllers",
+      "ContentRoot": "C:\\ASPNETCORE\\IActionControllers\\IActionControllers\\wwwroot\\",
+      "BasePath": "_content/IActionControllers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\ASPNETCORE\\IActionControllers\\IActionControllers\\wwwroot\\resume_v7.pdf",
+      "SourceId": "IActionControllers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASPNETCORE\\IActionControllers\\IActionControllers\\wwwroot\\",
+      "BasePath": "_content/IActionControllers",
+      "RelativePath": "resume_v7.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resume_v7.pdf"
+    }
+  ]
+}

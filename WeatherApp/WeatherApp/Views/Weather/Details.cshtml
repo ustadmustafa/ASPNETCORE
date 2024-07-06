@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using WeatherApp.Models
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>City Details</title>
+    <meta charset="UTF-8" />
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="page-content">
+        <h1>City Details</h1>
+        <div class="box w-50">
+            <h3>@Model.CityName</h3>
+            <table class="table w-100">
+                <tbody>
+                    <tr>
+                        <td>Date</td>
+                        <td>@Model.DateAndTime</td>
+                    </tr>
+                    <tr>
+                        <td>Temperature</td>
+                        <td>@Model.TemperatureFahrenheit</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <a href="/">Back to index</a>
+    </div>
+
+    @{
+        //ArrayList
+    }
+</body>
+</html>
